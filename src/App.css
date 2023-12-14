@@ -2,11 +2,17 @@
     background-color: black;
     width: 120%;
 }
-.input{
+.border{
+    width: 30%;
+    border: 5px;
+    border-radius: 10px;
     margin-right: 18%;
 }
+.input{
+    padding: 10px 30px;
+}
 button{
-    margin-left: 60px;
+    margin-left: 43%;
 }
 p{
     margin-top: 10px;
